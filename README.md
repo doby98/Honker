@@ -32,6 +32,10 @@
 ![혼커 족보 설명](https://user-images.githubusercontent.com/101616249/180952863-ad257483-982c-406a-b622-3b8e611c3981.PNG)
 </br>
 
+- 클래스 다이어그램
+>![image](https://user-images.githubusercontent.com/101616249/180963350-9bad6768-1366-4d97-9b6c-30a9ac6e3cd2.png)
+</br>
+
 ## 5. 핵심 기능
 
 5-1. 게임 준비
