@@ -11,7 +11,7 @@
 - JAVA 8
 </br>
 
-## 3. 핵심 기능
+## 3. 프로젝트 설명
 >프로젝트의 핵심 기능은 카드패에 따른 족보 출력 및 승패 판정입니다.
 >
 >사용자는 기본적인 포커 룰에 따라 각 3차례씩 카드를 받고, 베팅을 진행할 수 있습니다.
@@ -26,6 +26,28 @@
 ![혼커 룰 설명](https://user-images.githubusercontent.com/101616249/180952851-0359a687-8c05-4520-9676-ceb60aad71b6.PNG)
 </br>
 
+---
+
 - 혼커 족보 설명</br>
 ![혼커 족보 설명](https://user-images.githubusercontent.com/101616249/180952863-ad257483-982c-406a-b622-3b8e611c3981.PNG)
 </br>
+
+## 5. 핵심 기능
+
+5-1. 게임 준비
+- 포커 덱 만들기
+>![포커 덱 만들기](https://user-images.githubusercontent.com/101616249/180955008-a68a9a98-e7b4-468f-917b-1d9d70c5c4ac.PNG)
+</br>
+
+- 포커 덱에서 이용자에게 보낸 카드를 버리기
+>![포커 덱에서 보낸 카드 버리기](https://user-images.githubusercontent.com/101616249/180955152-1f80c653-1573-4013-b893-daeac83a0d4e.PNG)
+</br>
+
+- 베팅 메서드
+>![베팅 메서드](https://user-images.githubusercontent.com/101616249/180955209-738ea73e-d443-468e-8b1f-d5621c78c089.PNG)
+
+5-2. 패의 족보 판정하기(높은 족보 순으로 점수 부여)
+- Jokbo.java 참고
+
+
+
