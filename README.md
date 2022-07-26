@@ -55,6 +55,8 @@
 >4칸 차이나는 카드 수의 차가 4일때 스트레이트로 판별</br>
 >![image](https://user-images.githubusercontent.com/101616249/180962440-8aa467ab-c9e1-4c35-9c60-ae1456839f4f.png)</br>
 
+---
+
 - 숫자와 문양이 합쳐져 있는 카드에서 숫자만 도출하기
 >정규표현식을 사용하여 숫자만 사용가능
 >![image](https://user-images.githubusercontent.com/101616249/180962916-2f33dbd3-965a-42c2-bcc8-4f4cb3ebe0c8.png)
